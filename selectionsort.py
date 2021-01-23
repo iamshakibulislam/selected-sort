@@ -19,7 +19,7 @@ def selection_sort(items):
 
 
 
-listi=[0,9,1,23,4,8,7,7,11,66,44,98]
+listi=[0,1,23,4,8,7,7,11,66,44,98]
 
 print(selection_sort(listi))
 
